@@ -7,3 +7,4 @@ SnnGrow 开源社区是以类脑芯片和类脑人工智能算法及其应用为
 # 欢迎沟通交流
 
 ![image](https://www.snngrow.com/api/s/file/view/img/4936186921619456)
+![image](https://www.snngrow.com/api/s/file/view/img/34425685477036032)
